@@ -8,3 +8,10 @@ void main() {
   double soma2 = n3+n4;
   print(soma2);
 }
+void main() {
+  double a = 3;
+  double b = 3;
+  double c = 3.3;
+  double resultado = a+b+c;
+  print('Resultado é ${resultado}');
+}
