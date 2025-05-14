@@ -13,14 +13,17 @@ function info(){
     const nota2 = Number(prompt("Insira A Nota da Segunda Prova: "))
     const nota3 = Number(prompt("Insira A Nota da Terceira Prova: "))
     const notatotal = (nota1+nota2+nota3)/3
-    if(notatotal>=5){
+    if(notatotal>=5 ||idade>18){
         console.log(`Nome ${nome} Nota ${notatotal} esta Aprovado!!`)
+        console.log("Pode Tirar a carteira de Motorista!")
     }else if(notatotal >=3){
-        console.log("Em Recuperação, Por favor entre em contato com a secretaria")
+        console.log("Em Recuperação, Por favor entre em contato com a secretaria!")
+        console.log("Não Pode tirar a carteira de Motorista")
     }else{
-        console.log("Reprovado")
+        console.log("Reprovado!")
     }
-    return notatotal
+    
 }
+info()
 info()
 soma()
