@@ -12,13 +12,17 @@ function App() {
     const n2 = parseFloat(nota2) || 0;
     const n3 = parseFloat(nota3) || 0;
     const media = (n1 + n2 + n3) / 3;
-    setResultado(`Nota: ${media.toFixed(2)}`);
+    if(media>=6){
+      setResultado(`Nota: ${media.toFixed(2)} Estas Aprovado!`);
+    }else{
+      setResultado(`Nota: ${media.toFixed(2)} Estas Reprovado, Refaça a Disciplina!`);
+    }
   }
 
   return (
     <div className="App">
       <header className="App-header">
-        <p>Bem vindo!!</p>
+        <p>Calculadora de Notas!</p>
         <input
           placeholder="Informe a Nota"
           value={nota1}
