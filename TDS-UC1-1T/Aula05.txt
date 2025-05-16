@@ -20,6 +20,10 @@ VIII - Sistema de Localização endereço
 
 IX - Sistema de frete
 
+X - Sistema de Busca e Filtro 
+
+XI - Sistema de desconto para parceiro e revendedor
+
 - **Requisitos Não funcionais:**
 - Tempo de resposta do banco de dados
 - Tempo de cadastro
