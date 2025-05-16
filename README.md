@@ -5,4 +5,6 @@
 
 - Projetos em JS - TypeScript - Java - React - Dart
 
-- Documentação para Base de conhecimento :[https://www.notion.so/Atividade-III-1f542b2458b480a7bb39f3e0030edba9]
+- Documentação para Base de conhecimento : [Acesse Aqui] (https://www.notion.so/BASE-DE-CONHECIMENTO-1f442b2458b480508b66da5afd560743)
+
+- Atividades UC1 : [Acesse Aqui] (https://www.notion.so/Atividades-TDS-1f442b2458b480e4a086dfd12c98cf76)
