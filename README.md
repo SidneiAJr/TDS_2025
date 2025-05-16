@@ -3,4 +3,4 @@
 
 Bem vindo ao meu respostiro do TDS - senac
 
-- Projetos em JS - TrypeScript - Java - React
+- Projetos em JS - TypeScript - Java - React
