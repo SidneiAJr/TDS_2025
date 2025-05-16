@@ -17,3 +17,10 @@ INSERT INTO estoqueloja(nome_produto,valor,quant_estoque,fabricante)
 VALUES('PRODUTO E',100,500,'PRODUTOR E');
 INSERT INTO estoqueloja(nome_produto,valor,quant_estoque,fabricante)
 VALUES('PRODUTO F',100,5000,'PRODUTOR F');
+DELETE FROM estoqueloja WHERE nome_produto = 'PRODUTO B';
+DELETE FROM estoqueloja WHERE nome_produto = 'PRODUTO A';
+DELETE FROM estoqueloja WHERE nome_produto = 'PRODUTO C';
+DELETE FROM estoqueloja WHERE nome_produto = 'PRODUTO D';
+
+
+
