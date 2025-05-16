@@ -5,10 +5,8 @@ CREATE DATABASE estoqueloja(
   quant_estoque INTEGER NOTNULL,
   fabricante TEXT NOTNULL, 
 );
-INSERT INTO nome_produto 
-INSERT INTO valor
-INSERT INTO quant_estoque
-INSERT INTO fabricante
+INSERT INTO estoque(nome_produto,valor,quant_estoque,fabricante)
+VALUES('PRODUTO A',100,50,'PRODUTOR A')
 
 
 
