@@ -3,7 +3,7 @@ CREATE DATABASE estoqueloja(
   nome_produto TEXT NOTNULL,
   valor INTEGER NOTNULL,
   quant_estoque INTEGER NOTNULL,
-  fabricante INTEGER NOTNULL, 
+  fabricante TEXT NOTNULL, 
 );
 INSERT INTO nome_produto 
 INSERT INTO valor
