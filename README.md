@@ -1,6 +1,6 @@
 
 ### Respositorio do TDS 
 
-## Bem vindo ao meu respostiro do TDS - senac
+Bem vindo ao meu respostiro do TDS - senac
 
-## Projetos em JS - TrypeScript - Java - React
+- Projetos em JS - TrypeScript - Java - React
