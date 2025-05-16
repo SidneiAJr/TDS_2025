@@ -20,7 +20,7 @@ VIII - Sistema de Localização endereço
 
 IX - Sistema de frete
 
-X - Sistema de Busca e Filtro 
+X - Sistema de Busca e Filtro, por nome de peça e modelo de carro e marca e ano e por tamanho e espessura.
 
 XI - Sistema de desconto para parceiro e revendedor
 
@@ -33,4 +33,4 @@ XI - Sistema de desconto para parceiro e revendedor
 - Limite de acesso
 - Tempo de Sessão
 - Sistema de Segurança de dados com hash
-- Sistema Failtobain, sistema anti robo.
+- ‘Sistema Failtobain sistema recaptcha
