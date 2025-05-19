@@ -1,5 +1,5 @@
 
-# 📚 Repositório de Estudos – Curso Técnico em Desenvolvimento de Sistemas
+# 📚 Repositório de Estudos – Curso TDS
 
 - Projetos em JS - TypeScript - Java - React - Dart
 
