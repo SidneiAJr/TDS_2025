@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px; /* espaço entre as divs */
+}
+
+.contato, .mapa {
+  flex: 1; /* cada div ocupa metade do espaço */
+}
+
+.mapa {
+  /* Ajuste conforme necessário */
+  max-width: 600px;
+}
