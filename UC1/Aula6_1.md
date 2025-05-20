@@ -1,5 +1,7 @@
 # ***Estudo de Caso  Sistema de Gerenciamento de eventos:***
 
+Nome: Sidnei, Miguel , Jian
+
 ## Requisito funcional:
 
 ### RF1 - **Cadastro de funcionários:** Permite cadastrar funcionários e colaboradores.
