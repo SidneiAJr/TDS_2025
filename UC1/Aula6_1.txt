@@ -1,4 +1,3 @@
-
 # ***Estudo de Caso  Sistema de Gerenciamento de eventos:***
 
 ## Requisito funcional:
@@ -15,8 +14,10 @@
 
 ### RF6 - Cadastro de Pagamento:  Permite verificar quem realizou os pagamentos.
 
-### RF7 -
-
 ## Requisitos Não funcionais:
 
-## RF1 -
+## RNF1 - Tempo de resposta do banco de dados, confiabilidade da informação, quantidade de acesso ao banco de dados.
+
+## RNF2 - Quantidade de acesso em simultâneo e quantidade de clicks, tempo de resposta e delay.
+
+## RNF3 - Tempo de sessão, sistema de segurança de dados, bloqueio de tentativa de acesso acima de 2, e sistema recaptcha.
