@@ -1,6 +1,6 @@
 # ***Estudo de Caso  Sistema de Gerenciamento de eventos:***
 
-Nome: Sidnei, Miguel , Jian
+# ***Nome: Sidnei, Miguel , Jian
 
 ## Requisito funcional:
 
