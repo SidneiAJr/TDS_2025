@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url(img/Black_hole.webp);
+    background-image: url(img/reckw88MqkkxrcumE-sus-emed-bg-1024x683.webp);
     background-size: cover;
 }
 
@@ -18,40 +18,57 @@ body {
     margin: 200px;
     background-color: transparent;
 }
-h1,h2{
+h1{
     font-weight: bold;
-    font-size: 20px;
+    font-size: 40px;
+    text-shadow: 1px 1px 2px pink;
+}
+.sub{
+    color: red;
 }
 input{
     font-weight: bold;
-
 }
 .info {
     border-radius: 20px;
     padding: 10px; /* opcional, mas melhora a aparência */
-    color: white; /* para ver o texto no fundo preto */
+    color: black; /* para ver o texto no fundo preto */
     text-align: center;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
     backdrop-filter: blur(100px);
+    font-weight: bold;
 }
 
 #mapa {
     border-radius: 20px;
     padding: 10px;
-    color: white;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
     backdrop-filter: blur(100px);
 }
 .info input,
-.info textarea,
-.info button {
+.info textarea{
     display: block;
     width: 100%;
     margin: 10px 0;
     padding: 10px;
     border-radius: 8px;
     border: none;
-    font-size: 14px;
+    font-size: 17px;
+    background-color: black;
+    opacity: 40%;
+}
+.info input,.info textarea{
+   color: white;
+   font-weight: bold;
+}
+.info button{
+display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    font-size: 17px;
 }
 
 .info button {
@@ -64,5 +81,7 @@ input{
 
 .info button:hover {
     background-color: darkblue;
+    opacity: 100%;
+    transition: 0.5s;
 }
 
