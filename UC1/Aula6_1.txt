@@ -21,3 +21,5 @@
 ## RNF2 - Quantidade de acesso em simultâneo e quantidade de clicks, tempo de resposta e delay.
 
 ## RNF3 - Tempo de sessão, sistema de segurança de dados, bloqueio de tentativa de acesso acima de 2, e sistema recaptcha.
+
+## RNF4 - Aplicativo mobile, para poder realizar agendamentos dos eventos pelo smartphone ou ligar para empresa para realizar a visita e verificar o local ou espaço para eventos
