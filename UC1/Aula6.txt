@@ -1,0 +1,23 @@
+**Faça um Algoritmo para Bolo:**
+
+- Pré-aqueça o forno a 180°C.
+- Em uma tigela, quebre os ovos.
+- **Ingredientes:**
+- 2x Ovo
+- 2x xicara de farinha de trigo
+- 2x xicara de leite
+- 1x fermento para bolo
+- 1x  Colher de Chocolate em pó
+- 1 colher de sopa de chocolate em pó (sugiro aumentar para 3–4 colheres para mais sabor)
+- 1 xícara de açúcar (faltava!)
+- 1/2 xícara de óleo (opcional, mas ajuda na maciez)
+- 1 colher de sopa de fermento químico para bolo
+- 1 pitada de sal (realça o sabor)
+- **Modo de Preparo do bolo:**
+- Misture tudo em uma vasilha
+- Coloque a mistura em uma forma
+- Coloque a forma no forno por 30 a 40 min
+- Depois disso quando pronto, cortar o bolo
+- Colocar recheio de Nutella e Nozes
+- Colocar cobertura de ganache de chocolate meio amargo e granulado
+- Peneirar leite ninho por cima da cobertura
