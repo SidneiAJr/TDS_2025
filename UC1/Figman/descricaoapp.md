@@ -30,5 +30,6 @@ O Objetivo desse projeto era para criar, funções para o dia a dia, pois os app
 3. Não há uso de API, somente calculos diretos na tela.
 4. Sem Uso de API Informação não e armazenada em nada.
 5. Link do figma para o TDS : https://www.figma.com/design/k7Q1DhEn1oXUxdFOzPKNPP/Projeto-para-TDS?node-id=2-77&t=fQ5FjgpImVkLlKAi-0
+6. Projeto Postado como Projeto TDS Figma...
 
 
