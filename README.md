@@ -1,7 +1,7 @@
 
 # 📚 Repositório de Estudos – Curso TDS
 
-- Projetos em JS - TypeScript - Java - React - Dart
+- Projetos em Javascript - TypeScript - Java - React - Dart
 
 - Documentação para Base de conhecimento : [Acesse Aqui](https://www.notion.so/BASE-DE-CONHECIMENTO-1f442b2458b480508b66da5afd560743)
 
