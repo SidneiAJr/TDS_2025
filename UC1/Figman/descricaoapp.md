@@ -1,8 +1,6 @@
 ## 📱Aplicativo 
 
-O Aplicativo Android que reúne diversas funcionalidades em um único app. Ele oferece uma interface simples e intuitiva para facilitar o uso diário.
-
-O Objetivo desse projeto era para criar, funções para o dia a dia, pois os apps alguns são pagos....
+A ideia de criar um app multi função com todas as funções abaixo esta criado e concluido porem esta feito somente em java com logica de programação, sem banco de dados ou api. 
 
 ## 🛠Funcionalidades
 - Calculadora de CDB CDI(Metrica Valor Futuro para Valor Presente)
