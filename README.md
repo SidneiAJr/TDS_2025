@@ -17,6 +17,7 @@ Este repositório contém exercícios, anotações e projetos desenvolvidos ao l
 - Desenvolvimento web
 - Programação orientada a objetos
 - Projetos práticos
+- Figma de Aplicação
 
 ## 📌 Objetivo
 
