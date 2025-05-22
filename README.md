@@ -7,7 +7,7 @@
 
 - Ideia de App Figma para Scrum TDS: [Acesse Aqui](https://github.com/SidneiAJr/TDS_2025/blob/main/UC1/Figman/descricaoapp.md)
 
-- Ideia de App Figma para Scrum TDS{Acesse Aqui](https://www.figma.com/design/55f0D7VEo7E7MQFKCPWmZ0/Esbo%C3%A7o-de-Leitor-de-PDF?node-id=0-1&p=f&t=roBtaLqtjUDP6fzg-0)
+- Ideia de App Figma para Scrum TDS[Acesse Aqui](https://www.figma.com/design/55f0D7VEo7E7MQFKCPWmZ0/Esbo%C3%A7o-de-Leitor-de-PDF?node-id=0-1&p=f&t=roBtaLqtjUDP6fzg-0)
 
 Este repositório contém exercícios, anotações e projetos desenvolvidos ao longo do curso Técnico em Desenvolvimento de Sistemas (TDS).
 
