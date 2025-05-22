@@ -5,7 +5,7 @@
 
 - Documentação para Base de conhecimento : [Acesse Aqui](https://www.notion.so/BASE-DE-CONHECIMENTO-1f442b2458b480508b66da5afd560743)
 
-- Ideia de App Figma para Scrum TDS [Acesse Aqui](https://github.com/SidneiAJr/TDS_2025/blob/main/UC1/Figman/descricaoapp.md) &
+- Ideia de App Figma para Scrum TDS: [Acesse Aqui](https://github.com/SidneiAJr/TDS_2025/blob/main/UC1/Figman/descricaoapp.md)
 
 - Ideia de App Figma para Scrum TDS{Acesse Aqui](https://www.figma.com/design/55f0D7VEo7E7MQFKCPWmZ0/Esbo%C3%A7o-de-Leitor-de-PDF?node-id=0-1&p=f&t=roBtaLqtjUDP6fzg-0)
 
